@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning backend development<br>Presently working on an ecommerce website and school result processing system
+I'm currently learning backend development<br>I also love designing<br>I keep practising, solving problems and improving my skills.
 
 
 ## 🌐 Socials:
