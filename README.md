@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning backend development<br>I also love designing<br>I keep practising, solving problems and improving my skills.
+I am a backend developer<br>I also love designing<br>I keep solving problems and improving my skills.
 
 
 ## 🌐 Socials:
